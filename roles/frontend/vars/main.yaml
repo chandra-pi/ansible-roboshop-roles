@@ -2,3 +2,4 @@ CATALOGUE_HOST: catalogue.devaws84s.online
 USER_HOST: user.devaws84s.online
 CART_HOST: cart.devaws84s.online
 SHIPPING_HOST: shipping.devaws84s.online
+PAYMENT_HOST: payment.devaws84s.online

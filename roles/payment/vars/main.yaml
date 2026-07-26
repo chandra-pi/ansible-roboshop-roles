@@ -1,0 +1,5 @@
+CART_HOST: cart.devaws84s.online
+USER_HOST: user.devaws84s.online
+RABBITMQ_HOST: rabbitmq.devaws84s.online
+RABBITMQ_USER: roboshop
+RABBITMQ_PASSWORD: roboshop123
